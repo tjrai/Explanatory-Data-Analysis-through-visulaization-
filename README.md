@@ -22,4 +22,4 @@ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It co
 
 The dataset has 2,075,259 rows and 9 columns. 
 Only data from the dates 2007-02-01 and 2007-02-02 are used. 
-Our overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007.
+Overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007.
